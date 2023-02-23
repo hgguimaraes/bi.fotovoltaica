@@ -1,5 +1,5 @@
 import pandas as pd
-import plotly.express as px
+import plotly as px
 import streamlit as st
 
 # Carregando os dados do arquivo Excel
